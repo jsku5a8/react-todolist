@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 40px;
+  margin-top: 24px;
+}
+
+.input {
+  padding: 25px 15px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  display: inline-block;
+}
+
+.button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
